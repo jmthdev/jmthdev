@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
-My example:
-<img src=”https://komarev.com/ghpvc/?username=jonz-dsgn" alt=”jonz-dsgn” />
+
 
 ## Hi there 👋, I'm Joni
 
