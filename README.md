@@ -1,5 +1,5 @@
 
-##                                               Hi there 👋, I'm Joni
+##                                               Hi there 👋 I'm Joni
 
 <!--
 **jonz-dsgn/jonz-dsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
