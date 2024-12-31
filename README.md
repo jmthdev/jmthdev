@@ -1,7 +1,6 @@
-![](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
 
 
-## Hi there 👋, I'm Joni
+                                     ## Hi there 👋, I'm Joni
 
 <!--
 **jonz-dsgn/jonz-dsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +16,4 @@ Here are some ideas to get you started:
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
