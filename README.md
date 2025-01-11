@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=css3&color=1572B6)
