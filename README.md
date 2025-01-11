@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** with a love for crafting beautiful and functional websites. Check out some of my skills and tools below!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&width=435&lines=Web+developer;In+God+we+trust.+;All+others+must+bring+data.)
+![](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&width=435&lines=Web+developer;In+God+we+trust.+;All+others+must+bring+data.)
 
 ---
 
