@@ -1,5 +1,6 @@
 
 ##                                               Hi there 👋 I'm Joni
+
 ![](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=1ABC9C&width=435&lines=Web+developer;In+God+we+trust.;+All+others+must+bring+data.)
 <!--
 **jonz-dsgn/jonz-dsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
