@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Joni
 
+Welcome to my GitHub profile! I'm a passionate **Web Developer** with a love for crafting beautiful and functional websites. Check out some of my skills and tools below!
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&width=435&lines=Web+developer;In+God+we+trust.+;All+others+must+bring+data.)
 
@@ -13,7 +14,7 @@ I'm currently working on:
 
 ### 🌱 I'm learning:
 - **React** for building dynamic user interfaces
-- **Java** for backend development
+- **JavaScript** for backend and frontend development
 - **SQL** for managing and querying databases
 - **Azure** cloud services for scalable solutions
 - **Cybersecurity** to ensure safe and secure web applications
@@ -31,11 +32,6 @@ I'm currently working on:
 
 ---
 
-### 📫 How to reach me:
-- Email: [jiihoo86@yahoo.com](mailto:jiihoo86@yahoo.com)
-
----
-
 ### 🌟 Fun Fact:
 - I believe in the power of **data-driven decision making** – it's amazing what insights data can bring!
 
@@ -45,6 +41,7 @@ I'm currently working on:
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
 
 ---
+
 
 
 
