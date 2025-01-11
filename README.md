@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonz-dsgn&layout=compact)
 
