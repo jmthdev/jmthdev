@@ -4,7 +4,7 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&width=435&lines=Web+developer;In+God+we+trust.+;All+others+must+bring+data.)
 
 
----
+
 
 ### 🚀 Current Focus
 
@@ -19,7 +19,7 @@ I'm currently working on:
 - **Azure** cloud services for scalable solutions
 - **Cybersecurity** to ensure safe and secure web applications
 
----
+
 
 ### 🛠️ Technologies & Tools
 
@@ -30,17 +30,17 @@ I'm currently working on:
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&color=777BB4)
 ![SQL](https://img.shields.io/badge/Tools-SQL-4479A1?style=flat&logo=mysql&color=4479A1)
 
----
+
 
 ### 🌟 Fun Fact:
 - I believe in the power of **data-driven decision making** – it's amazing what insights data can bring!
 
----
+
 
 ### 🏆 GitHub Stats:
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
 
----
+
 
 
 
