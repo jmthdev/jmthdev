@@ -10,7 +10,7 @@
 
 I'm currently working on:
 - Exploring **MERN stack** development
-- Working with **databases** and building efficient data models
+
 
 ### 🌱 I'm learning:
 - **React** for building dynamic user interfaces
