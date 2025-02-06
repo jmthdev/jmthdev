@@ -17,6 +17,7 @@ I'm currently working on:
 - **JavaScript** for backend and frontend development
 - **SQL** for managing and querying databases
 - **Azure** cloud services for scalable solutions
+- **Azure** and **AWS** cloud services for scalable solutions
 - **Cybersecurity** to ensure safe and secure web applications
 
 
