@@ -12,12 +12,15 @@ I'm currently working on:
 - Exploring **MERN stack** development
 
 
-### 🌱 I'm learning:
-- **React** for building dynamic user interfaces
-- **JavaScript** for backend and frontend development
-- **SQL** for managing and querying databases
-- **Azure** and **AWS** cloud services for scalable solutions
-- **Cybersecurity** to ensure safe and secure web applications
+### 🚀 I'm Learning
+I’m currently learning and deepening my skills in the following areas:  
+- **React** for building dynamic and interactive user interfaces  
+- **JavaScript** for both frontend and backend development  
+- **SQL** for efficient database querying and management  
+- **Azure** and **AWS** cloud platforms to deploy scalable applications  
+- **Cybersecurity** to ensure the security of web applications  
+- **Python** for general-purpose scripting and backend tasks  
+- **Machine Learning** to explore data-driven models and intelligent solutions 
 
 
 
@@ -32,6 +35,10 @@ I'm currently working on:
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&color=777BB4)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=3776AB)
+
+### 🧠 Machine Learning
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&color=FF6F00)
 
 ### 🗄️ Database
 ![SQL](https://img.shields.io/badge/Tools-SQL-4479A1?style=flat&logo=mysql&color=4479A1)
@@ -39,6 +46,12 @@ I'm currently working on:
 
 ### ⚙️ Tools
 ![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&color=2496ED)
+
+### ☁️ Cloud & Security
+![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&color=0078D4)
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&color=232F3E)
+![Cybersecurity](https://img.shields.io/badge/Security-Cybersecurity-FF385C?style=flat&logo=hackthebox&color=FF385C)
+
 
 ### 🌟 Fun Fact:
 - I believe in the power of **data-driven decision making** – it's amazing what insights data can bring!
