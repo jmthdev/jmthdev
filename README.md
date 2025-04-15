@@ -25,6 +25,7 @@ I'm currently working on:
 
 ![React](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&color=61DAFB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&color=F7DF1E)
+![Node.js](https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&color=E34F26)
 ![CSS3](https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=css3&color=1572B6)
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&color=777BB4)
