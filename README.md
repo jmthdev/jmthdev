@@ -9,29 +9,20 @@
 ### 🚀 Current Focus
 
 I'm currently working on:
-- Exploring **MERN stack** development
+- 🔵 Exploring **MERN stack** development
 
+### 🚀 I'm Learning
 
-🚀 I'm Learning
 I’m currently learning and deepening my skills in the following areas:
 
-React for building dynamic and interactive user interfaces
-
-JavaScript for both frontend and backend development
-
-SQL for efficient database querying and management
-
-Azure and AWS cloud platforms to deploy scalable applications
-
-Cybersecurity to ensure the security of web applications
-
-Python for general-purpose scripting and backend tasks
-
-API development to design, build, and document robust and efficient interfaces
-
-Machine Learning to explore data-driven models and intelligent solutions
-
-
+- 🔵 **React** – building dynamic and interactive user interfaces
+- 🔵 **JavaScript** – frontend and backend development
+- 🔵 **SQL** – efficient database querying and management
+- 🔵 **Azure** and **AWS** – deploying scalable cloud applications
+- 🔵 **Cybersecurity** – securing web applications
+- 🔵 **Python** – general-purpose scripting and backend tasks
+- 🔵 **API development** – designing and building robust APIs
+- 🔵 **Machine Learning** – exploring data-driven models and intelligent solutions
 
 ### 🛠️ Technologies & Tools
 
@@ -61,9 +52,9 @@ Machine Learning to explore data-driven models and intelligent solutions
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&color=232F3E)
 ![Cybersecurity](https://img.shields.io/badge/Security-Cybersecurity-FF385C?style=flat&logo=hackthebox&color=FF385C)
 
+### 🌟 Fun Fact
+- 🔵 I believe in the power of **data-driven decision making** – it's amazing what insights data can bring!
 
-### 🌟 Fun Fact:
-- I believe in the power of **data-driven decision making** – it's amazing what insights data can bring!
 
 
 
