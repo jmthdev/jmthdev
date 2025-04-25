@@ -6,12 +6,12 @@
 
 
 
-### 🖥️ Current Focus
+<h3 align="center" style="color: #4FC3F7;">🖥️ Current Focus</h3>
 
 I'm currently working on:
 - Exploring **MERN stack** development
 
-### 🖥️ I'm Learning
+<h3 align="center" style="color: #81C784;">🖥️ I'm Learning</h3>
 
 I’m currently learning and deepening my skills in the following areas:
 
