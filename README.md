@@ -26,23 +26,33 @@ I’m currently learning and deepening my skills in the following areas:
 
 ### 🛠️ Technologies & Tools
 
-![React](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&color=61DAFB)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&color=F7DF1E)
-![HTML5](https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&color=E34F26)
-![CSS3](https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=css3&color=1572B6)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&color=E34F26" />
+  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=css3&color=1572B6" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&color=777BB4)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=3776AB)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&color=777BB4" />
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=3776AB" />
+</p>
 
-![SQL](https://img.shields.io/badge/Tools-SQL-4479A1?style=flat&logo=mysql&color=4479A1)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&color=47A248)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-SQL-4479A1?style=flat&logo=mysql&color=4479A1" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&color=47A248" />
+</p>
 
-![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&color=0078D4)
-![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&color=232F3E)
-![Cybersecurity](https://img.shields.io/badge/Security-Cybersecurity-FF385C?style=flat&logo=hackthebox&color=FF385C)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&color=0078D4" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&color=232F3E" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-FF385C?style=flat&logo=hackthebox&color=FF385C" />
+</p>
 
-![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&color=2496ED)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&color=2496ED" />
+</p>
 
 ### ✨ Fun Fact
 
