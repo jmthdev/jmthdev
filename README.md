@@ -6,12 +6,12 @@
 
 
 
-<h3 align="center">🖥️ Current Focus</h3>
+### 🖥️ Current Focus
 
 I'm currently working on:
 - Exploring **MERN stack** development
 
-<h3 align="center">🖥️ I'm Learning</h3>
+### 🖥️ I'm Learning
 
 I’m currently learning and deepening my skills in the following areas:
 
