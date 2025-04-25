@@ -12,15 +12,24 @@ I'm currently working on:
 - Exploring **MERN stack** development
 
 
-### 🚀 I'm Learning
-I’m currently learning and deepening my skills in the following areas:  
-- **React** for building dynamic and interactive user interfaces  
-- **JavaScript** for both frontend and backend development  
-- **SQL** for efficient database querying and management  
-- **Azure** and **AWS** cloud platforms to deploy scalable applications  
-- **Cybersecurity** to ensure the security of web applications  
-- **Python** for general-purpose scripting and backend tasks  
-- **Machine Learning** to explore data-driven models and intelligent solutions 
+🚀 I'm Learning
+I’m currently learning and deepening my skills in the following areas:
+
+React for building dynamic and interactive user interfaces
+
+JavaScript for both frontend and backend development
+
+SQL for efficient database querying and management
+
+Azure and AWS cloud platforms to deploy scalable applications
+
+Cybersecurity to ensure the security of web applications
+
+Python for general-purpose scripting and backend tasks
+
+API development to design, build, and document robust and efficient interfaces
+
+Machine Learning to explore data-driven models and intelligent solutions
 
 
 
