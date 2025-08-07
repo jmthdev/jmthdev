@@ -4,14 +4,14 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&width=435&lines=Web+developer;In+God+we+trust.+;All+others+must+bring+data.)
 
 
-### 🖥️ Current Focus
+### Current Focus
 
 I'm currently working on:
 - Exploring **MERN stack** development
 
 ---
 
-### 🛠️ My Toolbox
+### My Toolbox
 
 #### Languages
 <p align="center">
@@ -47,7 +47,7 @@ I'm currently working on:
 
 ---
 
-### 🖥️ I'm Learning
+### I'm Learning
 
 I’m currently learning and deepening my skills in the following areas:
 
@@ -59,7 +59,7 @@ I’m currently learning and deepening my skills in the following areas:
 
 ---
 
-### 🚀 Project Insights
+### Project Insights
 
 I enjoy building with different tech stacks and frameworks, for example:
 
@@ -69,9 +69,8 @@ I enjoy building with different tech stacks and frameworks, for example:
 
 ---
 
-### 🏆 GitHub Stats:
+### GitHub Stats:
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
-
 
 
 
