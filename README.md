@@ -11,38 +11,32 @@ I'm currently working on:
 
 ---
 
-### My Toolbox
+### Things I Code With
 
-#### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript&color=3178C6" />
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&color=3776AB" />
+  <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&color=777BB4" />
+  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&color=E34F26" />
+  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=css3&color=1572B6" />
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Code-Angular-DD0031?style=flat&logo=angular&color=DD0031" />
+  <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat&logo=next.js&color=000000" />
+  <img src="https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&color=43853D" />
+  <img src="https://img.shields.io/badge/Tools-SQL-4479A1?style=flat&logo=mysql&color=4479A1" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&color=47A248" />
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&color=2496ED" />
 </p>
 
-#### Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+---
 
-#### Databases & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### Cloud & Security
 
-#### Cloud & Security
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF385C?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&color=0078D4" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&color=232F3E" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-FF385C?style=flat&logo=hackthebox&color=FF385C" />
 </p>
 
 ---
