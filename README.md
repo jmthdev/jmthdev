@@ -21,7 +21,6 @@ I'm currently working on:
   <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&color=E34F26" />
   <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=css3&color=1572B6" />
   <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Code-Angular-DD0031?style=flat&logo=angular&color=DD0031" />
   <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat&logo=next.js&color=000000" />
   <img src="https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&color=43853D" />
   <img src="https://img.shields.io/badge/Tools-SQL-4479A1?style=flat&logo=mysql&color=4479A1" />
