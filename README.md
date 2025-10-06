@@ -5,8 +5,11 @@
 ### Current Focus
 I'm currently working on:
 - Mastering **Prisma ORM** with **PostgreSQL**
+- **Linux** system administration and development
+- **Kubernetes** development, orchestration, and security
 - Building scalable full-stack applications
 - Deepening my understanding of modern database design
+- Container security and DevSecOps practices
 
 ---
 
@@ -27,7 +30,7 @@ I'm currently working on:
   <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&color=61DAFB" />
   <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat&logo=next.js&color=000000" />
   <img src="https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&color=43853D" />
-  <img src="https://img.shields.io/badge/Code-Angular-DD0031?style=flat&logo=angular&color=DD0031" />
+  <img src="https://img.shields.io/badge/Code-Laravel-FF2D20?style=flat&logo=laravel&color=FF2D20" />
   <img src="https://img.shields.io/badge/Code-FastAPI-009688?style=flat&logo=fastapi&color=009688" />
 </p>
 
@@ -44,6 +47,7 @@ I'm currently working on:
   <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&color=2496ED" />
   <img src="https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=flat&logo=kubernetes&color=326CE5" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&color=F05032" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&color=FCC624" />
 </p>
 
 ---
@@ -62,8 +66,11 @@ I'm currently working on:
 I'm actively expanding my skill set in these areas:
 - **Prisma ORM** – modern database toolkit for TypeScript & Node.js
 - **PostgreSQL** – advanced database design and optimization
+- **Linux** – system administration, shell scripting, and server management
+- **Kubernetes** – container orchestration, security hardening, and microservices architecture
+- **DevSecOps** – integrating security practices into CI/CD pipelines
+- **Container Security** – Docker and Kubernetes security best practices
 - **Redux Toolkit** – efficient state management for React applications
-- **Kubernetes** – container orchestration and microservices architecture
 - **API Design** – building scalable and maintainable REST & GraphQL APIs
 - **Machine Learning** – exploring AI/ML integration in web applications
 
@@ -74,9 +81,10 @@ I'm actively expanding my skill set in these areas:
 I specialize in building modern, scalable applications using various tech combinations:
 
 - **Modern Full-Stack:** **TypeScript** + **React/Next.js** frontend with **Node.js** + **Prisma** + **PostgreSQL** backend
-- **Enterprise Applications:** **TypeScript** + **Angular** frontend with **Python/FastAPI** + **PostgreSQL** backend
+- **Enterprise Applications:** **PHP** + **Laravel** backend with **React/Next.js** frontend and **PostgreSQL** database
 - **Rapid Prototyping:** **JavaScript** + **React** with **Node.js** and **MongoDB**
-- **Cloud-Native Solutions:** Containerized with **Docker** and deployed on **AWS/Azure**
+- **Cloud-Native Solutions:** Containerized with **Docker** and orchestrated with **Kubernetes** on **AWS/Azure**
+- **DevSecOps:** Secure deployment pipelines on **Linux** infrastructure with automated security scanning
 
 ---
 
@@ -86,11 +94,3 @@ I specialize in building modern, scalable applications using various tech combin
 
 ### GitHub Stats:
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-jonz-dsgn)
-
-
-
-
-
-
-
-
