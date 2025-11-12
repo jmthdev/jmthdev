@@ -4,7 +4,7 @@
 
 ## About Me
 
-Finland-based Full Stack Developer specializing in **accessible**, **user-friendly** web solutions. Committed to building **scalable** and **high-performance** applications, driving robustness across the full development lifecycle.
+Full Stack Developer specializing in **accessible**, **user-friendly** web solutions. Committed to building **scalable** and **high-performance** applications, driving robustness across the full development lifecycle.
 
 ---
 
