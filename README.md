@@ -2,7 +2,7 @@
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;In+God+we+trust.+;All+others+must+bring+data.)
 
-## 🇫🇮 About Me
+## About Me
 
 Finland-based Full Stack Developer specializing in **accessible**, **user-friendly** web solutions. Committed to building **scalable** and **high-performance** applications, driving robustness across the full development lifecycle.
 
