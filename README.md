@@ -82,7 +82,7 @@ I'm actively expanding my expertise and gaining practical experience in these ke
 
 ### 📧 Connect with me
 <p align="left">
-  <a href="mailto:jmthx@proton.me"><img src="https://img.shields.io/badge/Email-jiihoo86@yahoo.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jiihoo86@yahoo.com"><img src="https://img.shields.io/badge/Email-jiihoo86@yahoo.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/johadv"><img src="https://img.shields.io/badge/GitHub-johadv-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
